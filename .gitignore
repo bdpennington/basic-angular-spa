@@ -1,0 +1,8 @@
+upload-dir
+test-audio*.mp3
+upload.mjs
+.vscode
+build
+.gradle
+gradle
+bin
