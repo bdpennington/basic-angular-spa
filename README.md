@@ -17,3 +17,5 @@ If you're lucky, I'll create a Dockerfile soon so none of that is necessary.
 ## Client
 
 Just run `pnpm i` and `pnpm run serve` and you're good to go.
+
+This part is still a WIP.
